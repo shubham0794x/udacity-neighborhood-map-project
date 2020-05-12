@@ -2,28 +2,28 @@
 
 var locations =[ 
     {
-        title: 'Eco Park',
+        title: 'Bangkok',
         location: {
             lat: 22.6021,
             lng: 88.4658
   }
 }, 
     {
-  title: 'Aquatica',
+  title: 'SiamParagon',
    location: {
      lat: 22.5618,
      lng: 88.4649
   }
 }, 
     {
-  title: 'Nicco Park',
+  title: 'IconSiam',
    location: {
     lat: 22.5712,
      lng: 88.422
   }
 }, 
     {
-  title: 'Victoria Memorial',
+  title: 'Terminal21',
    location: {
     lat: 22.5448,
     lng: 88.3425
