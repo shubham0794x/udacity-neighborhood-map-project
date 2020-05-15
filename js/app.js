@@ -44,14 +44,14 @@ var locations =[
   }
 }, 
     {
-  title: 'Diamond Harbour',
+  title: 'Swarbhumi Airport',
    location: {
     lat: 22.4693,
      lng: 88.3094
   }
 }, 
     {
-  title: 'Science City',
+  title: 'ChaoPhryaRIver',
    location: {
     lat: 22.539,
      lng: 88.3958
