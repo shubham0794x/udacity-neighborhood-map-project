@@ -58,14 +58,14 @@ var locations =[
   }
 }, 
     {
-  title: 'Birla Planeterium',
+  title: 'Icon Siam',
    location: {
     lat: 22.5455,
      lng: 88.3473
   }
 }, 
     {
-  title: 'Howrah Bridge',
+  title: 'SiamWaterPark',
    location: {
     lat: 22.5851,
      lng: 88.3468
