@@ -30,14 +30,14 @@ var locations =[
   }
 }, 
     {
-  title: 'Edens Garden',
+  title: 'Lumpini Park',
    location: {
     lat: 22.5628,
      lng: 88.3421
   }
 }, 
     {
-  title: 'Belur Math',
+  title: 'Wat Pho',
    location: {
     lat: 22.6322,
      lng: 88.3559
