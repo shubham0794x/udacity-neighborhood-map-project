@@ -4,15 +4,15 @@ var locations =[
     {
         title: 'Bangkok',
         location: {
-            lat: 22.6021,
-            lng: 88.4658
+            lat: 13.7563,
+            lng: 100.5018
   }
 }, 
     {
   title: 'SiamParagon',
    location: {
-     lat: 22.5618,
-     lng: 88.4649
+     lat: 13.746,
+     lng: 100.535
   }
 }, 
     {
