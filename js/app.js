@@ -18,36 +18,36 @@ var locations =[
     {
   title: 'IconSiam',
    location: {
-    lat: 22.5712,
-     lng: 88.422
+    lat: 13.7261,
+     lng: 100.5101
   }
 }, 
     {
   title: 'Terminal21',
    location: {
-    lat: 22.5448,
-    lng: 88.3425
+    lat: 13.7379,
+    lng: 100.5605
   }
 }, 
     {
   title: 'Lumpini Park',
    location: {
-    lat: 22.5628,
-     lng: 88.3421
+    lat: 13.7314,
+     lng: 100.5414
   }
 }, 
     {
   title: 'Wat Pho',
    location: {
-    lat: 22.6322,
-     lng: 88.3559
+    lat: 13.7466,
+     lng: 100.4933
   }
 }, 
     {
   title: 'Swarbhumi Airport',
    location: {
-    lat: 22.4693,
-     lng: 88.3094
+    lat: 13.6900,
+     lng: 100.7501
   }
 }, 
     {
