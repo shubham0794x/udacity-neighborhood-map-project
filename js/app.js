@@ -82,8 +82,8 @@ var bounds;
 // google maps init
 function initMap() {
     var siamparagon = {
-        lat: 22.539,
-        lng: 88.3958
+        lat: 13.746,
+        lng: 100.535
     };
     map = new google.maps.Map(document.getElementById('map'), {
         zoom: 3,
