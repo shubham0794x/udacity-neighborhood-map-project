@@ -81,7 +81,7 @@ var bounds;
 
 // google maps init
 function initMap() {
-    var sciencecity = {
+    var siamparagon = {
         lat: 22.539,
         lng: 88.3958
     };
