@@ -2,70 +2,70 @@
 
 var locations =[ 
     {
-        title: 'Bangkok',
+        title: 'Eco Park',
         location: {
-            lat: 13.7563,
-            lng: 100.5018
+            lat: 22.6021,
+            lng: 88.4658
   }
 }, 
     {
-  title: 'SiamParagon',
+  title: 'Aquatica',
    location: {
-     lat: 13.746,
-     lng: 100.535
+     lat: 22.5618,
+     lng: 88.4649
   }
 }, 
     {
-  title: 'IconSiam',
+  title: 'Nicco Park',
    location: {
-    lat: 13.7261,
-     lng: 100.5101
+    lat: 22.5712,
+     lng: 88.422
   }
 }, 
     {
-  title: 'Terminal21',
+  title: 'Victoria Memorial',
    location: {
-    lat: 13.7379,
-    lng: 100.5605
+    lat: 22.5448,
+    lng: 88.3425
   }
 }, 
     {
-  title: 'Lumpini Park',
+  title: 'Edens Garden',
    location: {
-    lat: 13.7314,
-     lng: 100.5414
+    lat: 22.5628,
+     lng: 88.3421
   }
 }, 
     {
-  title: 'Wat Pho',
+  title: 'Belur Math',
    location: {
-    lat: 13.7466,
-     lng: 100.4933
+    lat: 22.6322,
+     lng: 88.3559
   }
 }, 
     {
-  title: 'Swarbhumi Airport',
+  title: 'Diamond Harbour',
    location: {
-    lat: 13.6900,
-     lng: 100.7501
+    lat: 22.4693,
+     lng: 88.3094
   }
 }, 
     {
-  title: 'ChaoPhryaRIver',
+  title: 'Science City',
    location: {
     lat: 22.539,
      lng: 88.3958
   }
 }, 
     {
-  title: 'Icon Siam',
+  title: 'Birla Planeterium',
    location: {
     lat: 22.5455,
      lng: 88.3473
   }
 }, 
     {
-  title: 'SiamWaterPark',
+  title: 'Howrah Bridge',
    location: {
     lat: 22.5851,
      lng: 88.3468
@@ -81,9 +81,9 @@ var bounds;
 
 // google maps init
 function initMap() {
-    var siamparagon = {
-        lat: 13.746,
-        lng: 100.535
+    var sciencecity = {
+        lat: 22.539,
+        lng: 88.3958
     };
     map = new google.maps.Map(document.getElementById('map'), {
         zoom: 3,
