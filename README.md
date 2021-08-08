@@ -23,4 +23,3 @@ https://developer.foursquare.com/
 
 https://www.w3schools.com/
 
-map error handling : https://www.w3schools.com
